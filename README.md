@@ -60,7 +60,7 @@ To install and run OmniBrow, follow these steps:
 4. **Run the Application**
 
     ```sh
-    python main.py
+    python3 main.py
     ```
 
 ## Usage
