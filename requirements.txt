@@ -1,0 +1,5 @@
+PyQt5
+Requests
+BeautifulSoup4
+python-whois
+pyOpenSSL
