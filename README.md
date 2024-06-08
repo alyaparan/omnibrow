@@ -87,4 +87,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Developed with passion by Alik Paranyan, cybersecurity specialist and cybercriminal enthusiast.
+Developed by Alik Paranyan also as @alyaparan, Cyber Security Specialist and Cyber Criminal Enthusiast.
