@@ -20,7 +20,7 @@ class MainWindow(QMainWindow):
         self.setupBrowser()
         self.setupToolBar()
         self.setupOptionsDock()
-        self.setWindowTitle("Custom Browser")
+        self.setWindowTitle("OmniBrow v1.0.2")
         self.show()
 
     def setupBrowser(self):
@@ -104,7 +104,7 @@ class MainWindow(QMainWindow):
 
     def update_title(self):
         title = self.browser.page().title()
-        self.setWindowTitle("% s - Custom Browser" % title)
+        self.setWindowTitle("% s - OmniBrow v1.0.2" % title)
 
     def navigate_home(self):
         self.browser.setUrl(QUrl("http://www.google.com"))
