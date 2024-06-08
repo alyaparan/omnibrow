@@ -34,8 +34,8 @@ To install and run OmniBrow, follow these steps:
 - pyqt5==5.15.6
 - PyQtWebEngine==5.15.6
 - requests==2.26.0
-- whois==0.9.13
-
+- python-whois==0.9.4
+  
 ### Steps
 
 1. **Clone the Repository**
