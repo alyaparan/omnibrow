@@ -41,7 +41,7 @@ To install and run OmniBrow, follow these steps:
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/yourusername/omnibrow.git
+    git clone https://github.com/alyaparan/omnibrow.git
     cd omnibrow
     ```
 
