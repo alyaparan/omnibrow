@@ -1,4 +1,4 @@
-# OmniBrow
+# OmniBrow v1.0.2
 
 **OmniBrow** is a powerful, multifaceted browser application tailored for cybersecurity specialists and enthusiasts. Created by Alik Paranyan, a cybersecurity specialist and cybercriminal enthusiast, OmniBrow combines advanced web browsing with robust tools for URL parsing, Google Dorking, domain information lookup, and port scanning. This unique blend of features makes OmniBrow an indispensable tool for comprehensive web analysis and security research.
 
