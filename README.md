@@ -63,6 +63,11 @@ To install and run OmniBrow, follow these steps:
     ```sh
     python main.py
     ```
+5. **Or run the Application with --no-sandbox**
+
+    ```sh
+    python main.py --no-sandbox
+    ```
 
 ## Usage
 
