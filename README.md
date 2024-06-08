@@ -1,6 +1,6 @@
 # OmniBrow
 
-**OmniBrow** is a powerful, multifaceted browser application tailored for cybersecurity specialists and enthusiasts. Created by Alik Paranyan, a cybersecurity specialist and cybercriminal enthusiast, OmniBrow combines advanced web browsing with robust tools for URL parsing, Google Dorking, and domain information lookup. This unique blend of features makes OmniBrow an indispensable tool for comprehensive web analysis and security research.
+**OmniBrow** is a powerful, multifaceted browser application tailored for cybersecurity specialists and enthusiasts. Created by Alik Paranyan, a cybersecurity specialist and cybercriminal enthusiast, OmniBrow combines advanced web browsing with robust tools for URL parsing, Google Dorking, domain information lookup, and port scanning. This unique blend of features makes OmniBrow an indispensable tool for comprehensive web analysis and security research.
 
 ## Features
 
@@ -22,6 +22,11 @@
 - **WHOIS Lookup**: Access WHOIS records to gather ownership and registration details.
 - **SSL Certificate Information**: Inspect SSL certificates to verify domain security.
 
+### Port Scanning
+- **Fast Port Scanning**: Scan a range of ports on a target domain or IP address using multithreading for faster results.
+- **Customizable Settings**: Specify the range of ports, number of threads, and timeout for each scan.
+- **Detailed Results**: View open ports and additional information for thorough security analysis.
+
 ## Installation
 
 To install and run OmniBrow, follow these steps:
@@ -29,13 +34,7 @@ To install and run OmniBrow, follow these steps:
 ### Prerequisites
 
 - Python 3.x
-- beautifulsoup4==4.10.0
-- pyOpenSSL==22.0.0
-- pyqt5==5.15.6
-- PyQtWebEngine==5.15.6
-- requests==2.26.0
-- python-whois==0.9.4
-  
+
 ### Steps
 
 1. **Clone the Repository**
@@ -71,6 +70,7 @@ To install and run OmniBrow, follow these steps:
 3. **Parse URLs**: Click on "Parse URL" to extract and view the components of the current URL.
 4. **Perform Google Dorking**: Select a dork query type, input your parameter, and perform the search.
 5. **Lookup Domain Information**: Enter a domain and use the available buttons to fetch DNS, IP, WHOIS, and SSL certificate information.
+6. **Scan Ports**: Enter the target domain/IP, specify the range of ports, number of threads, and timeout, then click "Scan Ports" to view open ports.
 
 ## Contribution
 
